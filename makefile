@@ -1,0 +1,1 @@
+pyinstaller --noconfirm --onedir --console --add-data "E:/Workspace/projects/Dispatch portal/injector/config.yaml;." --add-data "E:/Workspace/projects/Dispatch portal/injector/files;files/"  "E:/Workspace/projects/Dispatch portal/injector/main.py"

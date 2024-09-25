@@ -1,0 +1,9 @@
+.venv/
+.vscode/
+files/
+old/
+parsed/
+output/
+__pycache__/
+sandbox.py
+last_mc.txt
